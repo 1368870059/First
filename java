@@ -23,4 +23,4 @@
 7字符串和基本数据类型互相转换：   字符串与基本数据类型转换 依靠包装类     基础数据类型 temp = 基础数据封装类.parse***（字符串变量str)方法实现
 			       基本数据类型变为字符串 依靠    String str = String.valueaOf(数据类型变量)    方法完成
 
-8多线程       继承Thread类           实现Runnable 接口
+8多线程       继承Thread类           实现Runnable 接口           start()方法
